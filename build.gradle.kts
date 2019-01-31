@@ -4,7 +4,7 @@ plugins {
     kotlin("jvm") version "1.3.20"
 }
 
-group = "eu.spaj"
+group = "spaj.eu"
 version = "1.0-SNAPSHOT"
 
 repositories {
